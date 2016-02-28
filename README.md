@@ -1,4 +1,6 @@
 # hello-world
 hello-world, my first repository
 
-get to know about github
+To get to know about github
+
+For more practice
